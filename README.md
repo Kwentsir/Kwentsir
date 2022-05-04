@@ -15,10 +15,10 @@
 </div>
 
 <div id="about" align="center">
-   <img src="/giphy.gif" width="300" height="300"/> 
+   <img src="/giphy.gif" width="100%" height="300"/> 
 </div>
 
-<div id="top-langs" align="center">
+<div id="top-langs" align="center" width="100%" height="300">
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwentsir&show_icons=true&theme=radical&langs_count=8)](https://github.com/kwentsir/github-readme-stats)
 
