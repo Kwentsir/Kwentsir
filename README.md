@@ -6,9 +6,6 @@
   <a href="www.linkedin.com/in/josephkwentsir">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCz9d-3iXrf7gOU_L40etNyA">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="https://twitter.com/jkwentsir">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -17,12 +14,15 @@
   </a>
 </div>
 
-<img src="/giphy.gif" width="300" height="300"/> 
+<div id="about" align="center">
+   <img src="/giphy.gif" width="300" height="300"/> 
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwentsir&show_icons=true&theme=radical&langs_count=8)](https://github.com/kwentsir/github-readme-stats)
-<br/>
+<div id="top-langs" align="center">
+   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwentsir&show_icons=true&theme=radical&langs_count=8)](https://github.com/kwentsir/github-readme-stats)
 
-![Kwentsir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwentsir&show_icons=true&theme=radical)
-<br/>
+   ![Kwentsir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwentsir&show_icons=true&theme=radical)
+</div>
 
 
