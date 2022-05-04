@@ -1,3 +1,5 @@
+<img src="/giphy.gif"/>
+<br/>
 
 ![Kwentsir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwentsir&show_icons=true&theme=radical)
 <br/>
