@@ -1,4 +1,4 @@
-<img src="/HI.gif" width="100%" height="250" &show_icons=true&theme=radical/>
+<img src="/HI.gif" width="100%" height="250"/>
 <br/>
 
 ![Kwentsir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwentsir&layout=compact&show_icons=true&theme=radical)
