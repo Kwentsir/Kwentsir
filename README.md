@@ -52,12 +52,21 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<div id="top-langs" align="center" width="100%" height="300">
+---
+
+<div id="top-langs" align="center" width="100%">
 
   ![Kwentsir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwentsir&show_icons=true&theme=radical)
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwentsir&show_icons=true&theme=radical&langs_count=8)](https://github.com/kwentsir/github-readme-stats)
-
 </div>
+
+  ---
+
+<div id="top-langs" align="center" width="100%">
+
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwentsir&show_icons=true&theme=radical&langs_count=8)](https://github.com/kwentsir/github-readme-stats)
+</div>
+
+
 
 
