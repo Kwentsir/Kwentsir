@@ -20,7 +20,6 @@
     <a href="https://web.facebook.com/bigjoepage">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <hr>
   <img src="https://komarev.com/ghpvc/?username=kwentsir&style=flat-square&color=blue" alt=""/>
  
 </div>
