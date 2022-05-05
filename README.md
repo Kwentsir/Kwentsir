@@ -55,7 +55,7 @@
 </div>
 
 ---
-<img src="https://activity-graph.herokuapp.com/graph?username=kwentsir&theme=radical" height="295em"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=kwentsir&theme=jolly" height="295em"/>
 
 
 
