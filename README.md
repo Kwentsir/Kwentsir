@@ -48,15 +48,10 @@
 
 <div id="top-langs" align="center" width="100%">
 
-  ![Kwentsir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwentsir&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=kwentsir&show_icons=true&theme=radical" height="180em" />
    
-</div>
 
-  ---
-
-<div id="top-langs" align="center" width="100%">
-
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwentsir&show_icons=true&theme=radical&langs_count=8)](https://github.com/kwentsir/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwentsir&show_icons=true&theme=radical&langs_count=8)](https://github.com/kwentsir/github-readme-stats" height="180" />
 </div>
 
 
