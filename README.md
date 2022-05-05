@@ -16,17 +16,19 @@
   <img src="https://komarev.com/ghpvc/?username=kwentsir&style=flat-square&color=blue" alt=""/>
   <h1>
   Hello!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  <span>
+  
+  ### :man_technologist: I'm Joseph 
+  </span>
 </h1>
+
+<h2> I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <img src="https://img.shields.io/badge/Microverse-blueviolet" width="70"/> and aspiring Tech Journalist.
+</h2>
+
 </div>
 
 ---
-<div>
-
-### :man_technologist: I'm Joseph
-<h2> I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <img src="https://img.shields.io/badge/Microverse-blueviolet" width="70"/> and aspiring Tech Journalist.
-</h2>
-</div>
 <div id="about" align="center">
    <img src="/giphy.gif" width="100%" height="300"/> 
 </div>
