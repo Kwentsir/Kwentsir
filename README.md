@@ -20,6 +20,13 @@
 </h1>
 </div>
 
+---
+<div>
+
+### :man_technologist: About Me :
+<h2> I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at ![](https://img.shields.io/badge/Microverse-blueviolet).
+</h2>
+</div>
 <div id="about" align="center">
    <img src="/giphy.gif" width="100%" height="300"/> 
 </div>
