@@ -51,8 +51,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kwentsir&show_icons=true&theme=radical" height="180em" />
    
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwentsir&show_icons=true&theme=radical&langs_count=8)](https://github.com/kwentsir/github-readme-stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwentsir&show_icons=true&theme=radical&langs_count=8)](https://github.com/kwentsir/github-readme-stats" height="180rem" />
 </div>
+
+---
+<img src="https://activity-graph.herokuapp.com/graph?username=kwentsir&theme=radical" height="295em"/>
 
 
 
