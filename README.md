@@ -24,7 +24,7 @@
 <div>
 
 ### :man_technologist: About Me :
-<h2> I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <img src="https://img.shields.io/badge/Microverse-blueviolet" width="30"/> and aspiring Tech Journalist.
+<h2> I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <img src="https://img.shields.io/badge/Microverse-blueviolet" width="50"/> and aspiring Tech Journalist.
 </h2>
 </div>
 <div id="about" align="center">
