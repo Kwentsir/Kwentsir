@@ -3,20 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Joseph  
 </h1>
 
-<h2> About Me </h2>
-
--I'm a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <img src="https://img.shields.io/badge/Microverse-blueviolet" width="70"/> and aspiring Tech Journalist.
-
--I’m interested in developing software applications to solve real-world problems.
-
--I’m constantly learning and improving on new software tools & technologies.
- 
--I’m looking to collaborate on any open source project.
-
--All of my projects are available at [Portfolio](https://kwentsir.github.io/kwentsir-Portfolio/).
- 
--How to reach me (kwentsirkwesi@gmail.com)
-
 <div id="header" align="center">
   <img src="/home.gif" width="100"/>
 </div>
@@ -37,6 +23,21 @@
 </div>
 
 ---
+
+<h2> About Me </h2>
+
+-I'm a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <img src="https://img.shields.io/badge/Microverse-blueviolet" width="70"/> and aspiring Tech Journalist.
+
+-I’m interested in developing software applications to solve real-world problems.
+
+-I’m constantly learning and improving on new software tools & technologies.
+ 
+-I’m looking to collaborate on any open source project.
+
+-All of my projects are available at [Portfolio](https://kwentsir.github.io/kwentsir-Portfolio/).
+ 
+-How to reach me (kwentsirkwesi@gmail.com)
+
 <div id="about" align="center">
    <img src="/giphy.gif" width="100%" height="300"/> 
 </div>
