@@ -5,6 +5,8 @@
 
 <h2> About Me </h2>
 <h2> I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <img src="https://img.shields.io/badge/Microverse-blueviolet" width="70"/> and aspiring Tech Journalist.
+ I’m interested in developing software applications to solve real-world problems.
+ I’m constantly learning and improving on new software tools & technologies.
 </h2>
 
 
