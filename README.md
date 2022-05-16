@@ -6,10 +6,15 @@
 <h2> About Me </h2>
 <div>
 - I'm a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <img src="https://img.shields.io/badge/Microverse-blueviolet" width="70"/> and aspiring Tech Journalist.
+ <br>
 - I’m interested in developing software applications to solve real-world problems.
+  <br>
 - I’m constantly learning and improving on new software tools & technologies.
+  <br>
 - I’m looking to collaborate on any open source project.
+  <br>
 - All of my projects are available at **[Portfolio](https://kwentsir.github.io/kwentsir-Portfolio/).**
+  <br>
 - How to reach me **kwentsirkwesi@gmail.com**
  </div>
 <div id="header" align="center">
