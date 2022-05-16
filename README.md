@@ -10,8 +10,8 @@
 - I’m looking to collaborate on any open source project.
 - All of my projects are available at **[Portfolio](https://kwentsir.github.io/kwentsir-Portfolio/).**
 - How to reach me **kwentsirkwesi@gmail.com**
-
-
+</br>
+</br>
 <div id="header" align="center">
   <img src="/home.gif" width="100"/>
 </div>
