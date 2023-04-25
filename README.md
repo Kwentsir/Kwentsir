@@ -21,14 +21,13 @@
  <a>
   <img src="https://komarev.com/ghpvc/?username=kwentsir&style=flat-square&color=blue" alt=""/>  
  </a>
-<a href="https://wakatime.com/@b9a1d1b6-f788-4868-80d7-80e9ba3ccc1c"><img src="https://wakatime.com/badge/user/b9a1d1b6-f788-4868-80d7-80e9ba3ccc1c.svg" alt="Total time coded since May 19 2022" /></a>
 </div>
 
 ---
 
 <h2> About Me </h2>
 
-💻 I'm a Full Stack Developer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <img src="https://img.shields.io/badge/Microverse-blueviolet" width="70"/> and Virtual Assistant.
+💻 I'm a Full Stack Developer and Virtual Assistant.
 
 ♥ I’m interested in developing software applications to solve real-world problems.
 
