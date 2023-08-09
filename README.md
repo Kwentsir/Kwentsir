@@ -33,7 +33,7 @@
 
 🌱 I’m constantly learning and improving on new software tools & technologies.
  
-👯 I’m looking to collaborate on any open source project.
+👯 I’m looking to collaborate on any open-source projects.
 
 🔭 All of my projects are available at [Portfolio](https://kwentsir.github.io/kwentsir-Portfolio/).
  
@@ -81,8 +81,6 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=kwentsir&theme=radical" height="250em" />
 </div>
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kwentsir&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
