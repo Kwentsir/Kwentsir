@@ -85,13 +85,6 @@
 </div>
 
 ---
-<div float="left">
-<img src="https://github-readme-stats.vercel.app/api?username=kwentsir&show_icons=true&theme=radical" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kwentsir&theme=radical" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwentsir&show_icons=true&theme=radical&langs_count=8)](https://github.com/kwentsir/github-readme-stats" height="250em"/> 
- <img src="https://activity-graph.herokuapp.com/graph?username=kwentsir&theme=radical" height="250em" />
-</div>
-
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
